@@ -1,4 +1,4 @@
-Test EW
+React-Native-Wallet
 =======
 
 ## Table of Contents
